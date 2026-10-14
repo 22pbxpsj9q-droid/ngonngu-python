@@ -1,3 +1,4 @@
+#hoat dong 4
 #4.1
 chuoi_so = "25"
 so = int(chuoi_so)
